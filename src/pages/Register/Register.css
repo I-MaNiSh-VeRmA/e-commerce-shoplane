@@ -1,0 +1,91 @@
+
+
+.register-form {
+    margin: 3% 25%;
+    width: 70%;
+    height: 120vh;
+}
+
+.register-form h3{
+    width: 50%;
+}
+.register-form hr{
+    width: 60%;
+}
+
+.signup-class {
+    background-color: #f6f6f9;
+    width: 60%;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    border-radius: 10px;
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.signup-class label {
+    font-size: 25px;
+    display: flex;
+    font-weight: 500;
+    justify-content: center;
+}
+
+/* .name-row{
+    display: flex;
+    margin: 0 !important;
+} */
+
+.address-row{
+    margin: 0 !important;
+}
+
+.address-line-1{
+    display: flex;
+}
+.address-line-2{
+    display: flex;
+}
+
+/* label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  } */
+
+  .form-control {
+    width: 80%;
+    margin: 5px 80px;
+}
+
+  .address-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .form-control1{
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+
+  .signup-btn {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    height: 55px;
+}
+
+.btn-up{
+    width: 250px;
+}

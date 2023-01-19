@@ -1,0 +1,11 @@
+.row{
+    margin-top: 0px;
+    margin-left: 5rem ;
+    display: inline-flex;
+    width: 100%;
+}
+
+.empty{
+    display: flex;
+    justify-content: center;
+}
